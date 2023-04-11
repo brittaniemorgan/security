@@ -1,0 +1,8 @@
+{
+    "name": "comp2171-groupproject/security",
+    "description": "This verifies users",
+    "type": "library",
+    "license": "na",
+    "minimum-stability": "dev",
+    "require": {}
+}
